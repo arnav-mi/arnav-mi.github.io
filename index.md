@@ -27,6 +27,10 @@
       margin: 0.5rem 0;
       font-size: 1.1rem;
     }
+    a {
+      color: #90cdf4;
+      text-decoration: none;
+    }
     main {
       max-width: 900px;
       margin: auto;
@@ -38,14 +42,11 @@
     h2 {
       border-bottom: 2px solid #ccc;
       padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
     }
     ul {
       list-style-type: disc;
       margin-left: 1.5rem;
-    }
-    .contact a {
-      color: #3182ce;
-      text-decoration: none;
     }
     footer {
       text-align: center;
@@ -59,10 +60,10 @@
 
 <header>
   <h1>Arnav Mishra</h1>
-  <p>📞 9389862230 | 📧 <a href="mailto:arnavm4393@gmail.com" style="color: #90cdf4;">arnavm4393@gmail.com</a></p>
+  <p>📞 9389862230 | 📧 <a href="mailto:arnavm4393@gmail.com">arnavm4393@gmail.com</a></p>
   <p>
-    <a href="https://www.linkedin.com/in/firstlast" target="_blank" style="color:#90cdf4;">LinkedIn</a> |
-    <a href="https://github.com/firstlast" target="_blank" style="color:#90cdf4;">GitHub</a>
+    <a href="https://www.linkedin.com/in/firstlast" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/firstlast" target="_blank">GitHub</a>
   </p>
 </header>
 
