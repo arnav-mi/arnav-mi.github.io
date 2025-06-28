@@ -1,6 +1,149 @@
-# arnav-mi.github.io
-# Education 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Arnav Mishra | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #1a202c;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0;
+      font-size: 1.1rem;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2.5rem;
+    }
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 1.5rem;
+    }
+    .contact a {
+      color: #3182ce;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #888;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
 
-# Contact details
+<header>
+  <h1>Arnav Mishra</h1>
+  <p>📞 9389862230 | 📧 <a href="mailto:arnavm4393@gmail.com" style="color: #90cdf4;">arnavm4393@gmail.com</a></p>
+  <p>
+    <a href="https://www.linkedin.com/in/firstlast" target="_blank" style="color:#90cdf4;">LinkedIn</a> |
+    <a href="https://github.com/firstlast" target="_blank" style="color:#90cdf4;">GitHub</a>
+  </p>
+</header>
 
-# Experience 
+<main>
+
+  <section>
+    <h2>Profile</h2>
+    <p>
+      Enthusiastic and forward-looking student with a deep passion for personal and professional growth. Looking for an entry-level position in a dynamic company where I can learn and develop skills, collaborate effectively in teams, and apply my abilities to contribute to the company’s growth.
+    </p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.Tech in Mechanical Engineering</strong> — NIT Calicut, Kerala (2022–Present), CGPA: 8.87</li>
+      <li><strong>Higher Secondary (12th)</strong> — Puranchandra Vidyaniketan, Kanpur, 94.6% (2021)</li>
+      <li><strong>Secondary (10th)</strong> — Puranchandra Vidyaniketan, Kanpur, 89.83% (2019)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Position of Responsibility</h2>
+    <ul>
+      <li><strong>Robotic Interest Group (RIG)</strong> — Technical Team Member (2023 – Present)</li>
+      <li>Project Mentor: Managed multiple projects and initiatives under RIG.</li>
+      <li>Account Manager: Oversaw project budgets and funding.</li>
+      <li>Volunteer at DISHA Expo 2024 for over 40,000 students.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Achievements</h2>
+    <ul>
+      <li><strong>JANATICS Automation Skill Challenge 2024</strong>
+        <ul>
+          <li>Designed bottle capping modules using Fusion 360</li>
+          <li>Fabricated system using Arduino that interfaces with industrial PLC</li>
+        </ul>
+      </li>
+      <li><strong>MATLAB Mini Drone Competition 2024</strong>
+        <ul>
+          <li>Developed path detection algorithm using colorThresholder</li>
+          <li>Simulated perfect takeoff, navigation and landing in Simulink</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Quadruped</strong>
+        <ul>
+          <li>Designed 12-DOF elephant-inspired robot in SolidWorks</li>
+          <li>Simulated parabolic trajectories using MATLAB Simulink</li>
+          <li>3D printed a leg prototype and tested actuator response</li>
+        </ul>
+      </li>
+      <li><strong>Garbage Collecting Robot</strong>
+        <ul>
+          <li>Implemented GPS-based waypoint navigation using Pixhawk</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><strong>Design:</strong> SolidWorks, Fusion 360, OnShape</li>
+      <li><strong>Simulation:</strong> MATLAB Simulink, Ansys</li>
+      <li><strong>Soft Skills:</strong> Time Management, Leadership, Presentation</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  &copy; 2025 Arnav Mishra | Hosted via GitHub Pages
+</footer>
+
+</body>
+</html>
